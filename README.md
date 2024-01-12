@@ -12,13 +12,7 @@ The project integrates MongoDB, Express.js, React, and Node.js with quantum comp
 - **Backend Development:** Rust
 
 ## Getting Started
-Instructions on setting up the project, installing dependencies, etc.
-
-## Contribution
-Guidelines for contributing to the Quantum MERN project.
-
-## License
-Specify the project's license.
+Instructions will be placed for setting up the project, installing dependencies, etc.
 
 ## Contact
-Information for reaching out to the project maintainers.
+amneeksingh011@gmail.com
